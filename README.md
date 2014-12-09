@@ -1,0 +1,1 @@
+# Click bait headlines for HackerNews
